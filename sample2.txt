@@ -1,0 +1,2 @@
+This is line 1 of sample2
+This is line 2 of sample2
