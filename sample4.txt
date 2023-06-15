@@ -1,0 +1,2 @@
+This is line 1 of sample4
+This is line 2 of sample4
